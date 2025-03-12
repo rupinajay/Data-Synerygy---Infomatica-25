@@ -2,8 +2,6 @@
 
 A powerful AI-powered business intelligence dashboard that allows you to query and analyze business data using natural language.
 
-![Dashboard Preview](public/og-image.png)
-
 ## Features
 
 - **Natural Language Querying**: Ask questions about your business data in plain English
